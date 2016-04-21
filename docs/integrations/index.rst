@@ -1,6 +1,8 @@
 Integrations
 ============
 
+* example integration
+
 .. toctree::
    :maxdepth: 1
 
